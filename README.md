@@ -101,7 +101,7 @@ The app stores business data locally on your device so you can continue using th
 
 ### B. Cloud Backup and Account Storage
 
-If you sign in, DailyPOS may back up or store certain account and business data using Google Firebase services, including:
+Because DailyPOS requires an account to use the app, DailyPOS may back up or store certain account and business data using Google Firebase services, including:
 
 - Account email
 - Email verification status
@@ -190,11 +190,9 @@ Because DailyPOS uses Firebase, Google Play services, and other third-party serv
 
 You may choose to:
 
-- Create or not create an account
 - Edit your shop and inventory data inside the app
 - Use or not use barcode scanning
 - Use or not use Bluetooth printing features
-- Use or not use cloud backup by signing into an account
 - Allow or deny notification permissions where your device permits that choice
 - Purchase or not purchase a Premium subscription
 - Delete your account from within the app
